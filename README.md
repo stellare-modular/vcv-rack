@@ -1,5 +1,10 @@
 # Stellare Modular modules for VCV Rack #
 
+For Enzo and Sander to have inspirational beer drinking sessions in Berlin to come up with brand new groovy ideas for new Rack modules we would appreciate donations, please use the link below.
+
+[Donate through Paypal](https://paypal.me/stellaremodular)
+
+
 ## Music Thing Turing Machine
 
 The Turing Machine module is based on the amazing Music Thing's Turing Machine Eurorack module by Tom Whitwell. We recreated the modules based on the original schematics of the Mk2 version. Besides the main module we also created the two Mk2 expanders: Volts and Pulses.
