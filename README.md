@@ -22,4 +22,4 @@ The Link module will not work out of the box on Windows due to the difference in
 ## Blank Panel ##
 A beatufiul Stellare Modular blank panel to spice up your VCV virtual rack.
 
-![Link](./doc/BlankPanel.png)
+![Link](./doc/blank.png)
