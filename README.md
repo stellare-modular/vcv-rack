@@ -17,6 +17,6 @@ The link module is a very simple module which provides a 'link' connection with 
 ![Link](./doc/link.png)
 
 ## Blank Panel ##
-A beatufiul Stellare Modular blank panel to spice up your VCV virtual rack.
+A beautiful Stellare Modular blank panel to spice up your VCV virtual rack.
 
 ![Link](./doc/blank.png)
